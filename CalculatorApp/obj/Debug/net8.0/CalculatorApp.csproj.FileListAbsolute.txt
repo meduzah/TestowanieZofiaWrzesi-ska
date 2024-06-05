@@ -1,0 +1,11 @@
+C:\ZofiaWrzesinskaTesty\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\ZofiaWrzesinskaTesty\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\ZofiaWrzesinskaTesty\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\ZofiaWrzesinskaTesty\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
